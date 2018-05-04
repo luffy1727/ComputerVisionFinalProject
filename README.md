@@ -3,9 +3,9 @@
 # Section : Undergraduate
 # E-mail  : Chintushig_Ochirsukh@student.uml.edu
 This is the readme file for the final project. 
-#Paper:
+# Paper:
 The final paper and presentation can be found in their respective folders.
-#Code:
+# Code:
 Implementation of the model and the python script to run it can be found in Codes folder. 
 
 In the Codes folder, you can find mask r-cnn implementation and coco tools inside the samples folder.
@@ -18,7 +18,7 @@ You can see the model running on my webcam successfully in the screenshots folde
 In order to run the model, you have to have: 
 Tensorflow, python and coco tools and this repo to be cloned.
 
-#Conclusion :
+# Conclusion :
 I have achieved what i was hoping for which was to implement a model that can classify segments of images with accuracy 97 or higher. Moreover, I have used what i learned from this class which was to connect my webcam with the model, and creating a suitable functions for the arguments of the functions that feeds it to the model. For an undergraduate who worked alone on a project of this magnitude, I think i did pretty well. 
 
 
