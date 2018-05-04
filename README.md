@@ -18,7 +18,7 @@ You can see the model running on my webcam successfully in the screenshots folde
 In order to run the model, you have to have: 
 Tensorflow, python and coco tools and this repo to be cloned.
 
-# Conclusion :
+# Conclusion:
 I have achieved what i was hoping for which was to implement a model that can classify segments of images with accuracy 97 or higher. Moreover, I have used what i learned from this class which was to connect my webcam with the model, and creating a suitable functions for the arguments of the functions that feeds it to the model. For an undergraduate who worked alone on a project of this magnitude, I think i did pretty well. 
 
 
